@@ -1,0 +1,58 @@
+ body {
+     font-family: Arial, sans-serif;
+     line-height: 1.6;
+     margin: 0;
+     padding: 0;
+     color: #333;
+     background-color: #f9f9f9;
+ }
+ 
+ .container {
+     max-width: 800px;
+     margin: 0 auto;
+     padding: 20px;
+     background: #fff;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+ }
+ 
+ h1 {
+     font-size: 2em;
+     text-align: center;
+     margin-bottom: 20px;
+ }
+ 
+ h2 {
+     text-align: center;
+ }
+ 
+ .image-container {
+     text-align: center;
+     margin: 20px 0;
+ }
+ 
+ .image-container img {
+     max-width: 100%;
+     height: auto;
+ }
+ 
+ .content {
+     margin: 20px 0;
+ }
+ 
+ .video-container {
+     text-align: center;
+     margin: 20p 0;
+ }
+ 
+ iframe {
+     width: 100%;
+     max-width: 560px;
+     height: 315px;
+     border: none;
+ }
+ 
+ p {
+     margin-bottom: 16px;
+ }
+ 
+ >
